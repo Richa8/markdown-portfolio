@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+### This is the list of my favourite programming languages
+* Front End
+  * HTML
+  * CSS
+  * Javascript
+ * Backend
+  * Java
+  * Python
+  
