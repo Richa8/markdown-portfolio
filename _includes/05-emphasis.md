@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to **Dance** and *code*
+- This is the a nice way to edit text and convert to __html__ when needed.
